@@ -11,7 +11,7 @@
 
 🧪 Вес файлов:
 
-- **geosite.dat** ~1.11 MB
+- **geosite.dat** ~1.16 MB
 - **geoip.dat** ~1.17 MB
 
 ---
